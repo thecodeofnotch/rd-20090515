@@ -32,5 +32,4 @@ Development day: May 14, 2009
 
 ## Setup
 1. Clone the project
-2. Set the VM option ``-Dorg.lwjgl.librarypath="<path_to_project>/run/natives"``
-3. Set the working directory to ``./run``
+2. Execute the gradle task ``run``
